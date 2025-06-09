@@ -6,7 +6,7 @@
 
 > Software developer 🎨 | Data Analyst 📈 | Music enthusiast 🎧 | Lifelong learner 🚀
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="animated.webp" width="230">
 <p><em>Former Software and Data Engineer at <a href="https://www.drugstoc.com/">DrugStoc</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <p>LinkedIn 👇</p>
