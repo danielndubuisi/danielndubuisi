@@ -23,13 +23,7 @@ const daniel = {
   code: [Javascript, Typescript, HTML, CSS, C#, Python],
   tools: [React, Redux, Node, Styled-Components, Django, Power BI, MS tools],
   architecture: ["microservices", "event-driven", "design system pattern", "data solutions"],
-  hobbies: ["singing", "gaming", "cooking"],
-  techCommunities: {
-                        codeveloper: "Talentpoel",
-                        director: "PMC",
-                        mentor: "Bro Code"
-                      },
- challenge: "One push a day, everyday"
+  hobbies: ["singing", "gaming", "cooking"]
 }
 ```
 
