@@ -19,7 +19,6 @@
 
 ```javascript
 const daniel = {
-  pronouns: "He" | "Him",
   code: [Javascript, Typescript, HTML, CSS, C#, Python],
   tools: [React, Redux, Node, Styled-Components, Django, Power BI, MS tools],
   architecture: ["microservices", "event-driven", "design system pattern", "data solutions"],
