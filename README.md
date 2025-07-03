@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Always%20Learning-💡-orange)
 ![Code](https://img.shields.io/badge/Coding-Music%20%7C%20Web%20%7C%20AI-blue)
 
-> Software developer 🎨 | Data Analyst 📈 | Music enthusiast 🎧 | Lifelong learner 🚀
+> Software Developer 🎨 | Data Analyst 📈 | Music Enthusiast 🎧 | AI Automation Expert 🧑‍💻
 
 <img align='right' src="animated.webp" width="230">
 <p><em>Former Software and Data Engineer at <a href="https://www.drugstoc.com/">DrugStoc</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
